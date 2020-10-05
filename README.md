@@ -1,2 +1,2 @@
 # WordShuffle
-An old program I originally programmed in Amiga BASIC, that I'm recreating in Python
+An old program I originally programmed in Amiga BASIC, that I'm now recreating in Python
